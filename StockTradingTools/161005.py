@@ -125,6 +125,7 @@ while True:
     try:
         data = input_path()
         print(data)
+        print()
         check_series()
         check_date_item()
         check_pohl()
